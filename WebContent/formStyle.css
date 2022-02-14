@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+/* Body */
+body{
+  font-family:Times New Roman, Times, serif;
+  }
+/* Heading */
+h1{
+color:#80bfff;
+text-align: center;
+}
+
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  
+  
